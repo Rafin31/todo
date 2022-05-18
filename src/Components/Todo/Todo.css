@@ -1,0 +1,31 @@
+.todo-container {
+    height: auto;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+.todo-container input[type=text] {
+    width: 100%;
+    padding: 20px 30px;
+}
+
+.todos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 100px;
+
+}
+
+.index {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.todos p {
+    display: inline;
+}

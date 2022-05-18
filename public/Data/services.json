@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "Title": "Basic Training",
+        "price": 1000,
+        "description": "This package includes 1 basic game which you will play and I will guide you. I will show you, your mistakes, and how to improve them. ",
+        "Features": {
+            "Total_hour": 1,
+            "Maximum_game": 1,
+            "Rank_Push": "No"
+        }
+    },
+    {
+        "id": "2",
+        "Title": "Intermediate Training",
+        "price": 1800,
+        "description": "This package includes 2 intermediate game which you will play and I will guide you. I will show you, your mistakes, and how to improve them. ",
+        "Features": {
+            "Total_hour": 2,
+            "Maximum_game": 2,
+            "Rank_Push": "Yes"
+        }
+    },
+    {
+        "id": "3",
+        "Title": "Advanced Training",
+        "price": 2000,
+        "description": "This Exclusive package includes 4 to 5 advanced game which you will play with me and I will guide you. I will show you, your mistakes, and how to improve them.Also in this package you will get a rank push (maximum 4 match rank) where I will play from your account and push your rank, and give you some tips and tricks as well ",
+        "Features": {
+            "Total_hour": 5,
+            "Maximum_game": "4-5",
+            "Rank_Push": "Yes"
+        }
+    }
+]

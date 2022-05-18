@@ -1,0 +1,49 @@
+.loginWrapper {
+    height: 60vh;
+}
+
+.loginCard {
+    margin-top: 100px;
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 50px !important;
+}
+
+.signInButton {
+    border: 1px solid #ff4e54;
+    text-decoration: none !important;
+    background: #ff4e54;
+    padding: 10px 20px;
+    color: white;
+    margin: 0px auto;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.Gmail {
+    border: 2px solid #34A853;
+    background-color: #34A853;
+    color: white;
+    font-weight: 700;
+}
+
+.signInButton:hover {
+    background-color: rgba(255, 78, 84, 0.5);
+    border: 1px solid rgba(255, 78, 84, 0.5);
+    color: white;
+
+}
+
+.loginTitle {
+    color: #3a364f;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 800;
+}
+
+.loginCard .svg-inline--fa {
+
+    height: 1.5rem !important;
+
+}
